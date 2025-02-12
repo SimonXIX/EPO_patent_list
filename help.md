@@ -1,6 +1,6 @@
 This script runs a query against the European Patent Office's Open Patent Services (OPS) API
 
-Syntax: python3 EPO_api.py [license|help|date_query]
+Syntax: python3 epo_api.py [license|help|date_query]
 
 options:
 license     Print the MIT License notification.
