@@ -1,2 +1,4 @@
-config.py
+python/config.py
+python/__pycache__
 __pycache__
+php/config.ini
