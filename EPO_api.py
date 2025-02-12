@@ -1,4 +1,4 @@
-# @name: EPO_api.py
+# @name: epo_api.py
 # @creation_date: 2025-02-11
 # @license: The MIT License <https://opensource.org/licenses/MIT>
 # @author: Simon Bowie <simon.bowie.19@gmail.com>
