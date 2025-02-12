@@ -1,12 +1,28 @@
-# Python script to query the European Patent Office's Open Patent Services (OPS) API
+# Scripts to query the European Patent Office's Open Patent Services (OPS) API
 
-## configuration variables
+## PHP
+
+### configuration variables
+
+Start by copying config_template.ini to a file called config.ini. Fill in the configuration variables using your own details. 
+
+consumer_key and consumer_secret can be obtained following EPO OPS' API documentation at https://www.epo.org/en/searching-for-patents/data/web-services/ops.
+
+### running the script
+
+The script is navigating to the ./php directory and running:
+
+`php epo_api.php`
+
+## Python
+
+### configuration variables
 
 Start by copying config_template.py to a file called config.py. Fill in the configuration variables using your own details. 
 
 consumer_key and consumer_secret can be obtained following EPO OPS' API documentation at https://www.epo.org/en/searching-for-patents/data/web-services/ops.
 
-## running the script
+### running the script
 
 The script has several functions which can be run by changing the parameter in the command:
 
